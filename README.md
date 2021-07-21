@@ -1,2 +1,2 @@
 # first-tailwind
-First Tailwind project
+My First Tailwind project
